@@ -1,5 +1,5 @@
 # 💫 About Me:
-apenas um cara que adora galinhas e acha o rubens fofo
+gestor de projetos e desenvolvedor full stack
 
 
 # 💻 Tech Stack:
